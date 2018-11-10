@@ -12,7 +12,7 @@ Neopixel library of the standard X11COLORS referenced by color name.
 Allows for the creation of a Color object by easy to remember name reference.
 Used with accompanying NeopixelCore library for development of Neopixel projects.
 
-Use the [Colors](/modules/Color.js) ([About Modules](/Modules)) module for it.
+Use the [Color](/modules/Color.js) ([About Modules](/Modules)) module for it.
 
 
 Color module usage:
