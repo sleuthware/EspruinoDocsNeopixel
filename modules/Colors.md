@@ -25,6 +25,7 @@ Reference a specific color by name
 ```
 
 Note that this is an RGB object that requires further processing by module Color{} to create a useful color object
+
 See module: Color.js  [Color](/modules/Color.js) 
 
 
